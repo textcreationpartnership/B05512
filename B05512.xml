@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, anent the Company for Fishing</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05512</idno><idno type="EEBO-CITATION">52612299</idno>
+  <idno type="VID">179604</idno>
+  <idno type="EEBO-PROQUEST">2248532577</idno>
+  
+            <idno type="STC">Wing S1658</idno>
+            <idno type="STC">ESTC R183380</idno>
+            <idno type="OCLC">52612299</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179604)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:76)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, anent the Company for Fishing</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given at Edinburgh, the sixteenth day of June, and of Our Reign the twenty two year, one thousand six hundred and seventy.</note>
+                  <note>Signed: Al. Gibson Cl. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Fishing Society (Scotland).</term>
+               <term type="topical_term">Fishery law and legislation --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179604:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">
+                     <gap reason="illegible" extent="6 words">
+                        <desc>〈◊◊◊◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Anent the COMPANY for FISHING.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> By the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith; To Our Lovits, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Messengers, Our Sheriffs in that part, conjunctly and severally specially constitute, Greeting.</salute>
+            </opener>
+            <p>Forasmuch as We, by the thirty ninth Act of Our first Parliament, holden in the year, one thousand six hundred and sixty one, Intituled, <hi>Act for the Fishing, and erecting of Companies for promoving of the same;</hi> Have, upon consideration of the best and readiest means for improve<g ref="char:EOLhyphen"/>ing the benefit and advantages which may redound by the Fishes which are or may be taken within the Seas, Channels, Firths and Lochs adjacent to, and surrounding this Our ancient Kingdom: Especially, that the said Trade will not only be a nursery for Sea-fairing men, a speedy occasion for building of Ships for Our and Our Subjects use both in Peace and War; But like<g ref="char:EOLhyphen"/>wise, will set many poor and idle people a work, and furnish the materials of a great native export, for the continual enriching of Our said Kingdom, by a sure foundation of Trade and Commerce. For promoving and advancing of the which Trade of Fishing, We, with consent of Our Estates of Parliament, did creat and erect particular Companies of Our own free-born naturalized Inhabitants in this King<g ref="char:EOLhyphen"/>dom, and of all others who should be taken and inrolled in any of the same Companies and Societies, and admitted to the Priviledges thereof within any Shire or Burgh within Our said Kingdom, betwixt and a certain day thereafter: And did constitute and creat such persons who should so enter themselves, and their Successors, in a Body Politick, to exerce the Trade after-specified; and did give and grant to them the Priviledges, Liberties, Freedoms and Immunities under-written, particularly and at length specified in the said Act of Parlia<g ref="char:EOLhyphen"/>ment; which Act hath lyen over and taken no effect now these nine years by-gone. And We, being very desirous that the good and profit of this Our ancient Kingdom, designed by the said Act, should not be altogether frustrate, have been graciously pleased, for advance<g ref="char:EOLhyphen"/>ing of the said Trade, to proffer a considerable sum to be payed out of Our Thesaury, and to enter into the said Society and Company; after whose Royal example, divers Noblemen, Gentlemen, Merchants and others, have since entred, and are content to enter into a Contract of co-partnery for making up of the said Society and Company, and have engaged to pay several sums of money, each of them for their own parts, for advancing of the said Fishing Trade, at the termes and in manner specified in the said Contract. And We being most willing to give all due encouragement to the said Society and Company, whereby they and their Successors may be constitute in a free Society and Company of Trade for the said Fishing; and withall considering, and being sufficiently informed, how prejudicial it will be to the said Trade to be erected in several Companies, by reason of the many discouragements and impediments which will daily arise and occur, through the competition and interfearing of several Companies driving one and the same Trade. Therefore We, by Our Letters Patent under Our Great Seal, dated at <hi>Whitehall,</hi> the fourth day of <hi>June</hi> instant, Have made, constitute and created all the saids persons, who have already or shall hereafter subscribe the foresaid Contract, and shall enter, or shall be admitted to enter into the said Society and Company, and their Successors in all time coming, in the sole and only Body and Incorporation Politick, to exe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce the Trade of Fishing within and about all Our Seas, Channels, Firths and Lochs of Our said Kingdom: And have given and granted to the said Company, all the Priviledges, Freedoms and Immunities mentioned in the said thirty ninth Act of Our first Parliament; And have given and granted to them a special jurisdiction, both by Sea and Land, over all the Members of the Company, and others imployed by them during the time of the Fishing; Power of nomination of Judges, Clerks and all other Members of Court, and their Sentences to have the full force as in any other Judicatory, and have ratified the foresaid Contract of co-partnery, in all the heads agreed to by the said Society; And with power to them to elect a Council, Directors, Cash-keepers, and others; and with power to them only to Trade to <hi>Muscovia, Freezland, Izland, Greenland,</hi> and such other Northern Islands and Continents, for the space of three nineteen years next to come: And have provided, that the Return from forraign places upon the Stock of the said Company, may be sold in free Burghs without previous offer to the Burgh; That no Herring nor White-fishes taken by <hi>Scots</hi> men, be sold to any but to Natives and other Inhabitants within the Kingdom, except by the said Company and Society; That no Stranger unnaturalized, shall have liberty to make or prepare Herring or White-fish upon Land, or to make or hire Booths or Store-houses for that effect, under the pain of confiscation, and the double to be exacted off the Seller, except the Company above-written. And farther, We have Ordained, that Salt, Cordage, Hemp, Cork, Pitch, Tar, Clapbord, Knapple, Skew-hoops, <hi>Holland</hi>-Nets, and other materials to be imported by the Company for the said Fishing, shall be free of Custom or other Impositions whatsoever, and that the Herring and White-fishes to be made and prepared therewith, shall be free of all manner of Custom, Excise or other Imposition whatsoever in the exportation thereof: That all Strangers Fishers, who shall repair to this Kingdom, shall be naturalized and entered Burgess of any City where they shall desire to reside <hi>gratis,</hi> and be free of all Taxations for the space of seven years after their arrival. And We have discharged, in favours of the said Company, the Teind-herring and Teind-fish of all such as shall be taken in all time hereafter; and have discharged the Excise-herring due to Us (except the Herring of <hi>Dumbar</hi>) for the space of three nineteen years; And have declared, That all Ale, Beer, Strong-waters and other Provisions for out-reeking of Vessels for the said Company, shall be free of all manner of Excise and other Impositions whatsoever; and have discharged the Lords or Masters of the ground from exacting any more from the Fishers or Merchants of the said Company, but only twelve shillings <hi>Scots</hi> for every Last, and that in satisfaction of the Saturdayes fishing, or any manner of Dues whatsoever: And have Ordained, that the Ships, Boats and other Vessels with their furniture in exercise of the said Trade, shall no wayes be arrestable by any Creditor, nor those who shall serve therein shall be pressed to any publick Service, without Our particular Warrand; And that the Fishers, Masters and their Servants during the time of Fishing, shall not be conveenable before any Judge for any civil cause, but the Judges to be appointed by the said Company, and that they, their materials and instruments shall be free of Captions, Acts of Warding. Arrestments or Attachments the time they are actually serving in the said Fishing: That none of the said Company shall be lyable to Assessments, Stents, Taxations or other Impositions or Burdens, for what Stock they have entered or shall enter in the said Society, or the profit and benefit thereof; And have ordained all Vessels imployed in the said Trade, Persons and Materials of the said Fishing, to be free of all Shoar-dues, Customs, Excises, Cocket-money, Merk on the Tun Anchoradge, Admiral-dues, Beaconage, Lights of the Isle of <hi>May,</hi> Flag-money, Gold-pennies, and others of that nature. And farther, We have prohibite and discharged all other Persons or Societies, who shall not joyn and enter themselves with the said Company for Fishing, and engage for payment of such Sums as they will stock, not being under one hundred pounds <hi>Sterling</hi> each person, to be payed in manner and at the termes contained in the said Contract of Society, betwixt and the first day of <hi>August</hi> next to come, from exporting of Herring or White-fishes after the last day of <hi>April,</hi> one thousand six hundred and seventy one years, under the pain of confiscation thereof for the use of the said whole Company; and for that effect, We have discharged all Collectors, Farmers and Tacks-men of Our Customs and Excise, and Clerks to Our Cockets, from receiving Enteresses or granting Cockets for any Herrings or White-fishes to be exported forth of Our said Kingdom by any person, except the Company aforesaid, under the pain of deprivation and losing of their Places: And generally, have granted to the said Society all other Freedoms, Privi<g ref="char:EOLhyphen"/>ledges, Immunities and Emoluments which any the like free Society or Company hath or enjoyeth within any other of Our Dominions. And whereas, We no wayes intend to prejudge or exclude any of the Subjects of this Our Kingdom, of the benefit and priviledge of the said Fishings and exportation thereof, provided they enter in the said Company, and do not by several Companies prejudge the said Trade, by interfearing and underselling one another; and provided they advance and pay in with the said sole Company any Sum, not being within one hundred pounds <hi>Sterling,</hi> which is the least Sum stocked by any of the said Company: But upon the contrair, are willing and ready to admit any into the said Society, betwixt and the said first day of <hi>August,</hi> with als much priviledge, liberty and advantage, as is granted
+<pb facs="tcp:179604:2"/>to, or competent to those who did first adventure in the said undertaking. And being desirous that all Our Subjects may have timous notice of this Our Royal Will and Pleasure, We, with advice of the Lords of Our Privy Council, Ordain these Our Letters to be direct. Our Will is herefore, and We charge you straitly and commands, that incontinent these Our Letters seen, ye pass to the Mercat-cross of <hi>Edinburgh,</hi> and remanent head Burghs of this Our Kingdom, and thereat, in Our Name and Authority, make open Proclamation and Publication of Our Will and Pleasure, contained in Our Letters Patent above-written: And farther, that ye in Our Name and Authority foresaid, inhibite and discharge all Persons or Societies, who betwixt and the first day of <hi>August</hi> next to come, shall not joyn and enter themselves with the said sole Company for Fishing, and ingage for payment of such Sums as they will stock, not being under one hundred pounds <hi>Sterling</hi> each person, to be payed in manner foresaid, and at the termes contained in the said Contract of Society; to export forth of this Kingdom any Herring or White-fishes after the last day of <hi>April,</hi> one thousand six hundred and seventy one years, under the pain of confiscation thereof for the use of the said whole Company. And Ordains these presents to be printed, that none pretend ignorance.</p>
+            <closer>
+               <dateline>Given at <hi>Edinburgh,</hi>
+                  <date>the sixteenth day of <hi>June,</hi> and of Our Reign the twenty two year, one thousand six hundred and seventy.</date>
+               </dateline>
+               <signed>
+                  <hi>Al. Gibson,</hi> Cl. S<seg rend="sup">ti</seg> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's most Excellent Majesty, 1670.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
